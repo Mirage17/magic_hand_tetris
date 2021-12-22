@@ -12,6 +12,7 @@ pos_player=[400,400]
 size_player=[50,50]
 window=pygame.display.set_mode((800,600))
 game_over=False
+print('hello')
 
 while not game_over:
     for event in pygame.event.get():
